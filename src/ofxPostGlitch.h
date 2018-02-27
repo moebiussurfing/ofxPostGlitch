@@ -21,6 +21,7 @@ enum ofxPostGlitchType{
 	OFXPOSTGLITCH_OUTLINE,
 	OFXPOSTGLITCH_NOISE,
 	OFXPOSTGLITCH_SLITSCAN,
+    OFXPOSTGLITCH_SLITSCAN_ROT,
 	OFXPOSTGLITCH_SWELL,
 	OFXPOSTGLITCH_INVERT,
 	OFXPOSTGLITCH_CR_HIGHCONTRAST,
@@ -73,6 +74,8 @@ public:
 
 	/* Apply enable effects to target Fbo */
 	void generateFx();
+    
+    void loadShader();
 
 protected:
 	bool		bShading[GLITCH_NUM];
