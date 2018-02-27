@@ -1,3 +1,6 @@
+Update for oF 0.10.0 and Shader 150, 120
+original source : [https://github.com/maxillacult/ofxPostGlitch](https://github.com/maxillacult/ofxPostGlitch)
+
 # ofxPostGlitch
 This add-on applies a glitch effect to the FBO using openFrameworks.  
 We recommend using openFrameworks v0073 or later.
