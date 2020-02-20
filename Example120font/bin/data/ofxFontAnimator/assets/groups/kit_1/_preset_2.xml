@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>0</Delay>
+		<Attack>1.46939</Attack>
+		<Sustain>0.408163</Sustain>
+		<Release>0.387755</Release>
+		<Curve>23</Curve>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<colorStart>42, 255, 248, 255</colorStart>
+		<colorEnd>255, 250, 0, 255</colorEnd>
+		<Duration>1</Duration>
+		<Delay>1</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</COLOR>
+	<FONT>
+		<Name>Unfinished Black.ttf</Name>
+		<Font_Size>54.3878</Font_Size>
+		<Char_Spacing>-8.01301</Char_Spacing>
+		<Line_Height>0.594331</Line_Height>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>79, 255, 241, 255</Color>
+			<Offset>7.0468, 0</Offset>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>1</Left>
+		<Center>0</Center>
+		<Right>0</Right>
+		<x_Offset>0</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>
+			<ENABLE_MULTILINE>1</ENABLE_MULTILINE>
+			<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+			<FILL_MODE>
+				<ENABLE_FILL>1</ENABLE_FILL>
+				<A_MODE_Width>1</A_MODE_Width>
+				<Fill_Width>1461.01</Fill_Width>
+				<B_MODE_Height>0</B_MODE_Height>
+				<Fill_Height>198.059</Fill_Height>
+			</FILL_MODE>
+		</A_MODE_MULTILINE>
+		<B_MODE_PARAGRAPH>
+			<ENABLE_PARAGRAPH>0</ENABLE_PARAGRAPH>
+			<Paragraph_Width>1001.18</Paragraph_Width>
+		</B_MODE_PARAGRAPH>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<Duration>1.05</Duration>
+		<Delay>0.357143</Delay>
+		<Curve>41</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</POSITION>
+	<COLORS>
+		<Background_Color>37, 0, 49, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>0.821101</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<SCALE>1.16008</SCALE>
+		<Start>0.655612</Start>
+		<End>1.71633</End>
+		<Duration>1.98061</Duration>
+		<Delay>1.04082</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</SCALE>
+	<SLIDE_Duration__Relative_>2229</SLIDE_Duration__Relative_>
+	<START>251, 361</START>
+	<END>56, 225</END>
+</group>

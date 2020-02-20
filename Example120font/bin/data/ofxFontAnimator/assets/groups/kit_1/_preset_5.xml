@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>0</Delay>
+		<Attack>1.58384</Attack>
+		<Sustain>4</Sustain>
+		<Release>1</Release>
+		<Curve>3</Curve>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<colorStart>147, 255, 171, 255</colorStart>
+		<colorEnd>22, 221, 49, 255</colorEnd>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>3</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</COLOR>
+	<FONT>
+		<Name>Sequel100Black-116.ttf</Name>
+		<Font_Size>140.204</Font_Size>
+		<Char_Spacing>9.13788</Char_Spacing>
+		<Line_Height>0.949351</Line_Height>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>255, 195, 0, 255</Color>
+			<Offset>0, 4.00772</Offset>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>0</Left>
+		<Center>1</Center>
+		<Right>0</Right>
+		<x_Offset>-9.7959</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>
+			<ENABLE_MULTILINE>1</ENABLE_MULTILINE>
+			<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+			<FILL_MODE>
+				<ENABLE_FILL>1</ENABLE_FILL>
+				<A_MODE_Width>1</A_MODE_Width>
+				<Fill_Width>1828.2</Fill_Width>
+				<B_MODE_Height>0</B_MODE_Height>
+				<Fill_Height>310.469</Fill_Height>
+			</FILL_MODE>
+		</A_MODE_MULTILINE>
+		<B_MODE_PARAGRAPH>
+			<ENABLE_PARAGRAPH>0</ENABLE_PARAGRAPH>
+			<Paragraph_Width>1001.18</Paragraph_Width>
+		</B_MODE_PARAGRAPH>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<Duration>1.2</Duration>
+		<Delay>0</Delay>
+		<Curve>22</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</POSITION>
+	<COLORS>
+		<Background_Color>0, 0, 0, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>0.0942165</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<SCALE>1</SCALE>
+		<Start>1</Start>
+		<End>1</End>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>3</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</SCALE>
+	<SLIDE_Duration__Relative_>7306</SLIDE_Duration__Relative_>
+	<START>1529.86, 274</START>
+	<END>41.561, 276</END>
+</group>

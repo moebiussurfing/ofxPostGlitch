@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<LOOP>0</LOOP>
+		<ALPHA>1</ALPHA>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>0.0957029</Delay>
+		<Attack>0.965035</Attack>
+		<Sustain>0.409421</Sustain>
+		<Release>1</Release>
+		<Curve>6</Curve>
+		<UnknownName>TANH</UnknownName>
+		<Show_Curve>1</Show_Curve>
+		<Reset>0</Reset>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<LOOP>0</LOOP>
+		<colorStart>247, 255, 240, 255</colorStart>
+		<colorEnd>218, 255, 0, 255</colorEnd>
+		<Duration>0.775</Duration>
+		<Delay>0.510204</Delay>
+		<Curve>14</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+		<UnknownName>PLAY ONCE</UnknownName>
+		<Reset>0</Reset>
+	</COLOR>
+	<FONT>
+		<SELECT>1</SELECT>
+		<Font_Size>34.6456</Font_Size>
+		<Char_Spacing>2.03566</Char_Spacing>
+		<Line_Height>0.797499</Line_Height>
+		<Reset_Font>0</Reset_Font>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>255, 76, 48, 255</Color>
+			<Offset>5.97523, 0</Offset>
+			<Reset_Double>0</Reset_Double>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>1</Left>
+		<Center>0</Center>
+		<Right>0</Right>
+		<x_Offset>0</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>0</A_MODE_MULTILINE>
+		<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+		<B_MODE_PARAGRAPH>1</B_MODE_PARAGRAPH>
+		<Paragraph_Width>3840</Paragraph_Width>
+		<Paragraph_Fill>0</Paragraph_Fill>
+		<Paragraph_Height>610.694</Paragraph_Height>
+		<Reset>0</Reset>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<LOOP>0</LOOP>
+		<Duration>0.375</Duration>
+		<Delay>0.122449</Delay>
+		<Curve>6</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+		<UnknownName>PLAY ONCE</UnknownName>
+		<Reset>0</Reset>
+	</POSITION>
+	<COLORS>
+		<Background_Color>31, 30, 28, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>1</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<LOOP>0</LOOP>
+		<SCALE>3.98929</SCALE>
+		<Start>0.403061</Start>
+		<End>3.98929</End>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+		<UnknownName>PLAY ONCE</UnknownName>
+		<Reset>0</Reset>
+	</SCALE>
+	<Zoom_Timeline>2691.7</Zoom_Timeline>
+	<SPEED__Slide_Time_>2447</SPEED__Slide_Time_>
+	<START>264, 754</START>
+	<END>263, 293</END>
+</group>

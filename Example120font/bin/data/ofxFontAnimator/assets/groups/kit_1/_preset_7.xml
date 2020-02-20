@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>0</Delay>
+		<Attack>4</Attack>
+		<Sustain>1</Sustain>
+		<Release>4</Release>
+		<Curve>3</Curve>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<colorStart>255, 0, 0, 154</colorStart>
+		<colorEnd>0, 0, 255, 255</colorEnd>
+		<Duration>5</Duration>
+		<Delay>2</Delay>
+		<Curve>10</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</COLOR>
+	<FONT>
+		<Name>ECHELON Regular.ttf</Name>
+		<Font_Size>140.204</Font_Size>
+		<Char_Spacing>22.449</Char_Spacing>
+		<Line_Height>1.31378</Line_Height>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>255, 0, 112, 255</Color>
+			<Offset>0, -4.74231</Offset>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>1</Left>
+		<Center>0</Center>
+		<Right>0</Right>
+		<x_Offset>0</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>
+			<ENABLE_MULTILINE>1</ENABLE_MULTILINE>
+			<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+			<FILL_MODE>
+				<ENABLE_FILL>0</ENABLE_FILL>
+				<A_MODE_Width>1</A_MODE_Width>
+				<Fill_Width>808.218</Fill_Width>
+				<B_MODE_Height>0</B_MODE_Height>
+				<Fill_Height>310.469</Fill_Height>
+			</FILL_MODE>
+		</A_MODE_MULTILINE>
+		<B_MODE_PARAGRAPH>
+			<ENABLE_PARAGRAPH>0</ENABLE_PARAGRAPH>
+			<Paragraph_Width>1001.18</Paragraph_Width>
+		</B_MODE_PARAGRAPH>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>3</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</POSITION>
+	<COLORS>
+		<Background_Color>0, 0, 0, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>0.954044</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<SCALE>1</SCALE>
+		<Start>1</Start>
+		<End>1</End>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>3</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</SCALE>
+	<SLIDE_Duration__Relative_>9000</SLIDE_Duration__Relative_>
+	<START>282, 256</START>
+	<END>282, 256</END>
+</group>

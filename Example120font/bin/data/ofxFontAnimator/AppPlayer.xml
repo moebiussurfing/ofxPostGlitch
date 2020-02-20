@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<TEXT_PLAYER>
+	<SLIDES />
+	<PLAYER>
+		<PLAY>1</PLAY>
+	</PLAYER>
+	<GLOBAL_TIME_SPEED>
+		<GLOBAL_DURATION__ms_>816</GLOBAL_DURATION__ms_>
+		<TAP_BPM>0</TAP_BPM>
+		<SOUND_TICK>0</SOUND_TICK>
+	</GLOBAL_TIME_SPEED>
+	<MODES>
+		<Mask_Mode__BW_>1</Mask_Mode__BW_>
+		<Invert>0</Invert>
+		<Disable_Double_Font>1</Disable_Double_Font>
+	</MODES>
+	<TIMELINE />
+</TEXT_PLAYER>

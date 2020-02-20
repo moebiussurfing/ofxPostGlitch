@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AppSettings>
+	<SHOW_gui>1</SHOW_gui>
+	<SHOW_User>0</SHOW_User>
+	<ENABLE_PresetManager>1</ENABLE_PresetManager>
+	<MODE_LIVE>0</MODE_LIVE>
+	<Debug>0</Debug>
+	<Mipmaps__blur_font_>1</Mipmaps__blur_font_>
+	<PLAY>1</PLAY>
+	<EDIT_MODE>0</EDIT_MODE>
+	<EDIT_MOUSE>0</EDIT_MOUSE>
+	<Step_Pixels>50</Step_Pixels>
+	<HELP>0</HELP>
+	<Mask_Mode__BW_>1</Mask_Mode__BW_>
+	<Invert>0</Invert>
+	<Disable_Double_Font>1</Disable_Double_Font>
+</AppSettings>

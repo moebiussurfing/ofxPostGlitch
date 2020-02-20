@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>0.326531</Delay>
+		<Attack>0.857143</Attack>
+		<Sustain>1.46939</Sustain>
+		<Release>0.326531</Release>
+		<Curve>27</Curve>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<colorStart>10, 255, 45, 255</colorStart>
+		<colorEnd>46, 255, 221, 255</colorEnd>
+		<Duration>1</Duration>
+		<Delay>0.510204</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</COLOR>
+	<FONT>
+		<Name>HelveticaNeueLTCom-BlkExO.ttf</Name>
+		<Font_Size>100</Font_Size>
+		<Char_Spacing>0</Char_Spacing>
+		<Line_Height>0.854592</Line_Height>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>255, 239, 26, 255</Color>
+			<Offset>6.18932, 0</Offset>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>1</Left>
+		<Center>0</Center>
+		<Right>0</Right>
+		<x_Offset>0</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>
+			<ENABLE_MULTILINE>1</ENABLE_MULTILINE>
+			<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+			<FILL_MODE>
+				<ENABLE_FILL>0</ENABLE_FILL>
+				<A_MODE_Width>1</A_MODE_Width>
+				<Fill_Width>1165.21</Fill_Width>
+				<B_MODE_Height>0</B_MODE_Height>
+				<Fill_Height>310.469</Fill_Height>
+			</FILL_MODE>
+		</A_MODE_MULTILINE>
+		<B_MODE_PARAGRAPH>
+			<ENABLE_PARAGRAPH>0</ENABLE_PARAGRAPH>
+			<Paragraph_Width>1001.18</Paragraph_Width>
+		</B_MODE_PARAGRAPH>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<Duration>0.375</Duration>
+		<Delay>0.122449</Delay>
+		<Curve>42</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</POSITION>
+	<COLORS>
+		<Background_Color>0, 0, 123, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>0</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<SCALE>1.14106</SCALE>
+		<Start>1</Start>
+		<End>1.61531</End>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>34</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</SCALE>
+	<SLIDE_Duration__Relative_>3006</SLIDE_Duration__Relative_>
+	<START>1057, 229</START>
+	<END>222, 233</END>
+</group>

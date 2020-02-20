@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>0.0957029</Delay>
+		<Attack>0.965035</Attack>
+		<Sustain>0.409421</Sustain>
+		<Release>1</Release>
+		<Curve>6</Curve>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<colorStart>247, 255, 240, 255</colorStart>
+		<colorEnd>218, 255, 0, 255</colorEnd>
+		<Duration>0.775</Duration>
+		<Delay>0.510204</Delay>
+		<Curve>14</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</COLOR>
+	<FONT>
+		<Name>BERLINGSKESLABST-XBDITALIC.TTF</Name>
+		<Font_Size>34.6456</Font_Size>
+		<Char_Spacing>2.03566</Char_Spacing>
+		<Line_Height>0.797499</Line_Height>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>255, 76, 48, 255</Color>
+			<Offset>5.97523, 0</Offset>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>1</Left>
+		<Center>0</Center>
+		<Right>0</Right>
+		<x_Offset>0</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>
+			<ENABLE_MULTILINE>1</ENABLE_MULTILINE>
+			<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+			<FILL_MODE>
+				<ENABLE_FILL>0</ENABLE_FILL>
+				<A_MODE_Width>1</A_MODE_Width>
+				<Fill_Width>1165.21</Fill_Width>
+				<B_MODE_Height>0</B_MODE_Height>
+				<Fill_Height>310.469</Fill_Height>
+			</FILL_MODE>
+		</A_MODE_MULTILINE>
+		<B_MODE_PARAGRAPH>
+			<ENABLE_PARAGRAPH>0</ENABLE_PARAGRAPH>
+			<Paragraph_Width>1001.18</Paragraph_Width>
+		</B_MODE_PARAGRAPH>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<Duration>0.375</Duration>
+		<Delay>0.122449</Delay>
+		<Curve>6</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</POSITION>
+	<COLORS>
+		<Background_Color>31, 30, 28, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>1</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<SCALE>3.97557</SCALE>
+		<Start>0.403061</Start>
+		<End>3.98929</End>
+		<Duration>1</Duration>
+		<Delay>0</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</SCALE>
+	<SLIDE_Duration__Relative_>1038</SLIDE_Duration__Relative_>
+	<START>264, 754</START>
+	<END>256, 282</END>
+</group>

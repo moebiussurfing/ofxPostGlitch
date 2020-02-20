@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<group>
+	<ALPHA>
+		<ENABLE>1</ENABLE>
+		<Max>1</Max>
+		<Min>0</Min>
+		<Delay>1</Delay>
+		<Attack>1</Attack>
+		<Sustain>2</Sustain>
+		<Release>1</Release>
+		<Curve>6</Curve>
+	</ALPHA>
+	<COLOR>
+		<ENABLE>1</ENABLE>
+		<colorStart>6, 255, 153, 255</colorStart>
+		<colorEnd>54, 255, 114, 255</colorEnd>
+		<Duration>1</Duration>
+		<Delay>1</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</COLOR>
+	<FONT>
+		<Name>6x7oct Alternate ExtraBold.ttf</Name>
+		<Font_Size>213.93</Font_Size>
+		<Char_Spacing>0</Char_Spacing>
+		<Line_Height>0.688775</Line_Height>
+		<DOUBLE_FONT>
+			<Enable>1</Enable>
+			<Color>74, 74, 74, 255</Color>
+			<Offset>-1.15232, 4.87825</Offset>
+		</DOUBLE_FONT>
+	</FONT>
+	<PARAGRAPH>
+		<Left>1</Left>
+		<Center>0</Center>
+		<Right>0</Right>
+		<x_Offset>0</x_Offset>
+		<y_Offset>0</y_Offset>
+		<A_MODE_MULTILINE>
+			<ENABLE_MULTILINE>1</ENABLE_MULTILINE>
+			<Multiline_Offset__C-R_>0</Multiline_Offset__C-R_>
+			<FILL_MODE>
+				<ENABLE_FILL>0</ENABLE_FILL>
+				<A_MODE_Width>1</A_MODE_Width>
+				<Fill_Width>1165.21</Fill_Width>
+				<B_MODE_Height>0</B_MODE_Height>
+				<Fill_Height>310.469</Fill_Height>
+			</FILL_MODE>
+		</A_MODE_MULTILINE>
+		<B_MODE_PARAGRAPH>
+			<ENABLE_PARAGRAPH>0</ENABLE_PARAGRAPH>
+			<Paragraph_Width>1001.18</Paragraph_Width>
+		</B_MODE_PARAGRAPH>
+	</PARAGRAPH>
+	<POSITION>
+		<ENABLE>1</ENABLE>
+		<Duration>1</Duration>
+		<Delay>1</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</POSITION>
+	<COLORS>
+		<Background_Color>15, 15, 14, 255</Background_Color>
+		<ENABLE_ALPHA_Animator>1</ENABLE_ALPHA_Animator>
+		<ALPHA_Value>0</ALPHA_Value>
+	</COLORS>
+	<SCALE>
+		<ENABLE>1</ENABLE>
+		<SCALE>1</SCALE>
+		<Start>1</Start>
+		<End>1</End>
+		<Duration>1</Duration>
+		<Delay>1</Delay>
+		<Curve>16</Curve>
+		<Repeat>0</Repeat>
+		<Times>1</Times>
+	</SCALE>
+	<SLIDE_Duration__Relative_>5855</SLIDE_Duration__Relative_>
+	<START>376, 409</START>
+	<END>325, 308</END>
+</group>

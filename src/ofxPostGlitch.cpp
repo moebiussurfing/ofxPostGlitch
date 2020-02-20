@@ -31,6 +31,9 @@ bool ofxPostGlitch::getFx(ofxPostGlitchType type_){
 }
 
 void ofxPostGlitch::generateFx(){
+	//bug
+	ofPushStyle();
+
 	if (targetBuffer == NULL){
 		ofLog(OF_LOG_WARNING, "ofxFboFX --- Fbo is not allocated.");
 		return;
@@ -82,6 +85,8 @@ void ofxPostGlitch::generateFx(){
     
     ofDisableBlendMode();
 
+	//bug
+	ofPopStyle();
 }
 
 

@@ -1,0 +1,14 @@
+ofxAnimatable
+ofxDraggable
+ofxFontAnimator
+ofxFontStash
+ofxGui
+ofxHistoryPlot
+ofxImGui
+ofxJsonUtils
+ofxMouseRuler
+ofxPostGlitch
+ofxPresetsManager
+ofxSerializer
+ofxSimpleFloatingGui
+ofxWatchFile
