@@ -38,23 +38,23 @@ public:
 
 	ofxPostGlitch(){
 		targetBuffer = NULL;
-		shader[0].load("Shaders/convergence");
-		shader[1].load("Shaders/glow");
-		shader[2].load("Shaders/shaker");
-		shader[3].load("Shaders/cut_slider");
-		shader[4].load("Shaders/twist");
-		shader[5].load("Shaders/outline");
-		shader[6].load("Shaders/noise");
-		shader[7].load("Shaders/slitscan");
-		shader[8].load("Shaders/swell");
-		shader[9].load("Shaders/invert");
-		shader[10].load("Shaders/crHighContrast");
-		shader[11].load("Shaders/crBlueraise");
-		shader[12].load("Shaders/crRedraise");
-		shader[13].load("Shaders/crGreenraise");
-		shader[14].load("Shaders/crRedinvert");
-		shader[15].load("Shaders/crBlueinvert");
-		shader[16].load("Shaders/crGreeninvert");
+		shader[0].load("ofxPostGlitch/Shaders/convergence");
+		shader[1].load("ofxPostGlitch/Shaders/glow");
+		shader[2].load("ofxPostGlitch/Shaders/shaker");
+		shader[3].load("ofxPostGlitch/Shaders/cut_slider");
+		shader[4].load("ofxPostGlitch/Shaders/twist");
+		shader[5].load("ofxPostGlitch/Shaders/outline");
+		shader[6].load("ofxPostGlitch/Shaders/noise");
+		shader[7].load("ofxPostGlitch/Shaders/slitscan");
+		shader[8].load("ofxPostGlitch/Shaders/swell");
+		shader[9].load("ofxPostGlitch/Shaders/invert");
+		shader[10].load("ofxPostGlitch/Shaders/crHighContrast");
+		shader[11].load("ofxPostGlitch/Shaders/crBlueraise");
+		shader[12].load("ofxPostGlitch/Shaders/crRedraise");
+		shader[13].load("ofxPostGlitch/Shaders/crGreenraise");
+		shader[14].load("ofxPostGlitch/Shaders/crRedinvert");
+		shader[15].load("ofxPostGlitch/Shaders/crBlueinvert");
+		shader[16].load("ofxPostGlitch/Shaders/crGreeninvert");
 	}
 
 	/* Initialize & set target Fbo */
